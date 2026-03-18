@@ -15,7 +15,7 @@ Build dependencies:
 Vala: Version 0.56+ recommended
 GTK4: Version 4.20+ recommended
 Glib: Version 4.20+ recommended
-Python 3+: Version 3.14+ recommended
+Python 3+: Version 3.12+ recommended
 ```
 
 Runtime dependencies:
