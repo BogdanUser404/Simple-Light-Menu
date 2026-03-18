@@ -1,0 +1,38 @@
+window {
+    background-color: rgba(255, 255, 255, 0.7); 
+    border-radius: 15px;
+}
+
+.sidebar {
+    border-radius: 15px;
+    background-color: rgba(206, 160, 188, 0.95);
+}
+
+.sidebar row label {
+    color: #2e3e5e;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+entry {
+    background-color: rgba(255, 249, 255, 0.80);
+    color: #2e3440;
+    border: 1px solid rgba(192, 119, 174, 0.2);
+    border-radius: 15px;
+    padding: 6px;
+    caret-color: #402e2e;
+}
+
+entry:focus {
+    box-shadow: 0 0 0 2px rgba(182, 109, 174, 0.2);
+    border: 1px solid rgba(182, 109, 174, 0.5);
+}
+
+.power-button {
+    background-color: rgba(207, 144, 186, 0.8);
+}
+
+.power-button:hover {
+    background-color: rgba(205, 156, 189, 0.8);
+    transition: background-color 0.2s ease;
+}
