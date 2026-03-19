@@ -2,7 +2,7 @@
 Simple Light Menu.
 (C) Bogdan Yachmenev 2026
 License:
-GnuGPL 3.0
+GNUGPL 2.0 or later
 */
 
 namespace SLDE {
