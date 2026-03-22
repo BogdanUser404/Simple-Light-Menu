@@ -1,9 +1,13 @@
 /*
-Simple Light Menu.
-(C) Bogdan Yachmenev 2026
-License:
-GNUGPL 2.0 or later
-*/
+ * Simple Light Menu
+ * (C) 2026 Bogdan Yachmenev <yachmenevbogdan350@gmail.com>
+ * 
+ * Licensed under GNU GPL v2.0 or later with ETHICAL TERMS:
+ * 1. AI TRAINING: Use for training requires disclosure of model weights.
+ * 2. MILITARY: Use for military purposes requires full source disclosure.
+ * 
+ * Distributed WITHOUT ANY WARRANTY. See LICENSE for details.
+ */
 
 namespace SLDE {
 	using Gtk;
